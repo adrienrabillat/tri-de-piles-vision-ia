@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Blender
+*.blend1
+*.blend2
+
+# macOS
+.DS_Store
+
+# Dataset output (regenerable)
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+.env/
+
+# Modeles de base telecharges par ultralytics
+yolov8n.pt
+runs/
+node_modules/
+frontend/build/
